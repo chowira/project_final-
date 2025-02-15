@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Ignorar la carpeta data
+data/
+
+# Ignorar la carpeta limpieza_de_datos
+limpieza_de_datos/
