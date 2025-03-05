@@ -1,0 +1,250 @@
+id;active;type;name;externalId;epgProvider;epgProviderId;mdbMatchTags;enableImageGenerator;order;lcn;testing;public;availability;fsAvailability;parentLock;malfunction;timeshiftDuration;timeshiftAvailable;timeshiftBeforeEvent;timeshiftAfterEvent;drm;directAccess;audio;message;channelGroup;description;hd;hack;dvbMrl;tags;epgLang;useStreamServer;freeSeekSeconds;freeSeekStartOver;freeSeekPvr;epgAllowedTypes;parallelStreamGroup
+1_BASEBALL_NETWORK;1;tv;1 BASEBALL NETWORK HD;BYMSPORT_stream_nu;14;8802;,movie,dummyShow,dummySeries,;1;156;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+1_BASEBALL_NETWORK_NETUNO;1;tv;1 BASEBALL NETWORK;ONE_BASEBALL_HD_stream_8v;14;8802;,movie,dummyShow,dummySeries,;1;223;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Deportes;;1;;\N;1440,DRM;es;1;0;0;0;;1
+24HORAS;1;tv;24 HORAS;24HORAS_stream_jy;14;281;,movie,dummyShow,dummySeries,;1;116;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+A3CINE;1;tv;A3CINE HD;A3CINE_stream_lb;14;3627;,movie,dummyShow,dummySeries,;1;128;\N;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;spa;\N;Series;;1;;\N;DRM,4320;es;1;0;0;0;;1
+A3SERIES;1;tv;A3 SERIES HD;A3SERIES_stream_ps;14;3149;,movie,dummyShow,dummySeries,;1;130;\N;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;\N;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+ADRENALINA_SPORT;1;tv;ADRENALINA SPORTS NETWORK HD;ADRENALINA_SPORT_stream_i0;14;2793;,movie,dummyShow,dummySeries,;1;180;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM;es;1;0;0;0;;1
+AGROTENDENCIATV;1;tv;AGROTENDENCIA TV FHD;AGROTENDENCIATV_stream_ak;14;2280;,movie,dummyShow,dummySeries,;1;78;114;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+AMC;1;tv;AMC FHD;AMC_stream_49;14;1362;,movie,dummyShow,dummySeries,;1;51;80;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+AMC_HD_INTER;1;tv;AMC HD;AMC_HD_INTER_stream_f9;14;1362;,movie,dummyShow,dummySeries,;1;201;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+ANIMALPLANET;1;tv;ANIMAL PLANET;ANIMALPLANET_stream_lr;14;2932;,movie,dummyShow,dummySeries,;1;71;108;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Documentales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+ANTENA3;1;tv;ANTENA 3 HD;ANTENA3_stream_as;14;61;,movie,dummyShow,dummySeries,;1;110;197;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+ANTENA_MOTOR;1;tv;ANTENA MOTOR HD;ANTENA_MOTOR_stream_ws;14;9168;,movie,dummyShow,dummySeries,;1;247;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa;\N;general;;1;;\N;1440,DRM;es;1;0;0;0;;1
+ANTV;1;tv;ANTV;ANTV_stream_8j;14;2187;,movie,dummyShow,dummySeries,;1;8;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+Audio-CHe;1;radio;Audio-CHe;AUDIO-ChE_stream_pw;\N;\N;,movie,dummyShow,dummySeries,;0;194;\N;0;1;cable;\N;0;\N;0;0;0;0;0;0;\N;\N;Musicales;;0;;\N;;\N;1;0;0;0;;1
+Audio-CHEstrellas;1;radio;Audio-CHEstrellas;AUDIO-ChEstrellas_stream_6t;\N;\N;,movie,dummyShow,dummySeries,;0;191;\N;0;1;cable;\N;0;\N;0;0;0;0;0;0;\N;\N;Musicales;;0;;\N;Auditoria;\N;1;0;0;0;;1
+Audio-Discovery;1;radio;Audio-Discovery;AUDIO-Discovery_stream_7p;\N;\N;,movie,dummyShow,dummySeries,;0;188;\N;0;1;cable;\N;0;\N;0;0;0;0;0;0;\N;\N;Musicales;;0;;\N;Auditoria;\N;1;0;0;0;;1
+Audio-HTV;1;radio;Audio-HTV;AUDIO-HTV_stream_af;\N;\N;,movie,dummyShow,dummySeries,;0;190;\N;0;1;cable;\N;0;\N;0;0;0;0;0;0;\N;\N;Musicales;;0;;\N;Auditoria;\N;1;0;0;0;;1
+Audio-IVC;1;radio;Audio-IVC;AUDIO-IVC_stream_c9;\N;\N;,movie,dummyShow,dummySeries,;0;186;\N;0;1;cable;\N;0;\N;0;0;0;0;0;0;\N;\N;Musicales;;0;;\N;Auditoria;\N;1;0;0;0;;1
+Audio-MTV;1;radio;Audio-MTV;AUDIO-MTV_stream_4l;\N;\N;,movie,dummyShow,dummySeries,;0;189;\N;0;1;cable;\N;0;\N;0;0;0;0;0;0;\N;\N;Musicales;;0;;\N;Auditoria;\N;1;0;0;0;;1
+Audio-Telemundo;1;radio;Audio-Telemundo;AUDIO-Telemundo_stream_u8;\N;\N;,movie,dummyShow,dummySeries,;0;193;\N;0;1;cable;\N;0;\N;0;0;0;0;0;0;\N;\N;Musicales;;0;;\N;;\N;1;0;0;0;;1
+Audio-TLNovelas;1;radio;Audio-TLNovelas;AUDIO-TLNovelas_stream_9x;\N;\N;,movie,dummyShow,dummySeries,;0;192;\N;0;1;cable;\N;0;\N;0;0;0;0;0;0;\N;\N;Musicales;;0;;\N;Auditoria;\N;1;0;0;0;;1
+Audio_Globovision;1;tv;Audio_Globovision;AUDIO-GLOBOVISION_stream_on;\N;\N;,movie,dummyShow,dummySeries,;0;183;\N;0;1;cable;\N;0;\N;0;0;0;0;0;0;\N;\N;Musicales;;0;;\N;Auditoria;\N;1;0;0;0;;1
+Audio_Meridiano;1;radio;Audio_Meridiano;AUDIO-Meridiano_stream_2j;\N;\N;,movie,dummyShow,dummySeries,;0;184;\N;0;1;cable;\N;0;\N;0;0;0;0;0;0;\N;\N;Musicales;;0;;\N;Auditoria;\N;1;0;0;0;;1
+AXN;1;tv;AXN FHD;AXN_stream_lw;14;479;,movie,dummyShow,dummySeries,;1;40;69;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Peliculas;;1;;\N;1440,DRM;es;1;0;0;0;;1
+AYE;1;tv;A&E FHD;AYE_stream_j3;14;455;,movie,dummyShow,dummySeries,;1;47;76;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Series;;1;;\N;1440,DRM;es;1;0;0;0;;1
+A_LA_COCINA;1;tv;A LA COCINA HD;A_LA_COCINA_stream_r4;14;6678;,movie,dummyShow,dummySeries,;1;247;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa;\N;Variedades;;1;;\N;1440,DRM;es;1;0;0;0;;1
+BABYTV;1;tv;BABY TV;BABYTV_stream_rs;14;695;,movie,dummyShow,dummySeries,;1;87;133;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Infantiles;;0;;\N;1440,DRM;es;1;0;0;0;;1
+BOLIVIATV;0;tv;MAS NETWORK;BOLIVIA_TV_stream_ho;14;9151;,movie,dummyShow,dummySeries,;1;174;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+BOLIVISION;1;tv;BOLIVISION;BOLIVISION_TV_stream_1i;14;416;,movie,dummyShow,dummySeries,;1;173;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+BYM_2_INTER;0;tv;BYM ELIMINATORIAS CONMEBOL HD;BYM_SPORT_2_stream_4l;14;8978;;1;233;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;spa;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+BYM_3_INTER;0;tv;BYM ELIMINATORIAS CONMEBOL HD;BYM_SPORT_3_stream_80;\N;\N;;0;235;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;spa;\N;Deportes;;1;;\N;1440,DRM,Inter;\N;1;0;0;0;;1
+BYM_SPORTS_INTER;1;tv;BYM SPORT HD;BYM_SPORTS_INTER_stream_ib;14;7263;,movie,dummyShow,dummySeries,;1;209;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+CANAL1;1;tv;CANAL I HD;CANAL1_stream_pt;14;967;,movie,dummyShow,dummySeries,;1;12;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+CANAL11;1;tv;CANAL ONCE HD;CANAL11_stream_xb;14;7546;,movie,dummyShow,dummySeries,;1;13;17;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Locales;;1;;\N;DRM,720;es;1;0;0;0;;1
+CANAL13;1;tv;CANAL 13;CANAL_13_CHILE_stream_rw;14;1398;,movie,dummyShow,dummySeries,;1;168;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;1;;\N;DRM,Inter;es;1;0;0;0;;1
+CANALINFANTIL;1;tv;CANAL INFANTIL HD;CANALINFANTIL_stream_na;14;5258;,movie,dummyShow,dummySeries,;1;88;134;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Infantiles;;1;;\N;1440,DRM;es;1;0;0;0;;1
+CANALINFORMATIVO;1;tv;CANAL INFORMATIVO;CANALINFORMATIVO_stream_7f;18;1;,movie,dummyShow,dummySeries,;0;166;\N;0;1;NetUno;\N;0;\N;720;720;1;2;0;0;\N;\N;Nacionales;;1;;\N;DRM,Inter;es;1;0;0;0;;1
+CARTOONITO;1;tv;CARTOONITO;CARTOONITO_stream_7c;14;453;,movie,dummyShow,dummySeries,;1;85;131;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Infantiles;;0;;\N;1440,DRM;es;1;0;0;0;;1
+Cartoonito_HD_INTER;1;tv;CARTOONITO HD;Cartoonito_HD_INTER_stream_1p;14;453;,movie,dummyShow,dummySeries,;1;0;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Infantiles;;1;;\N;1440,DRM;es;1;0;0;0;;1
+CARTOONNETWORK;1;tv;CARTOON NETWORK HD;CARTOONNETWORK_stream_10;14;403;,movie,dummyShow,dummySeries,;1;83;129;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Infantiles;;1;;\N;1440,DRM;es;1;0;0;0;;1
+CARTOON_NETWORK_HD_INTER;1;tv;CARTOON NETWORK HD;CARTOON_NETWORK_HD_stream_4x;14;403;,movie,dummyShow,dummySeries,;1;0;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Infantiles;;1;;\N;1440,DRM;es;1;0;0;0;;1
+CCTV;1;tv;CCTV-4;CCTV_stream_2c;14;1330;,movie,dummyShow,dummySeries,;1;114;\N;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Internacionales;;0;;\N;DRM,720;es;1;0;0;0;;1
+CGNT;1;tv;CGTN;CGTN_stream_w4;14;1552;,movie,dummyShow,dummySeries,;1;70;\N;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Internacionales;;0;;\N;DRM,720;es;1;0;0;0;;1
+CHILEVISION;1;tv;CHILEVISION;CHILE_VISION_stream_k8;14;4525;,movie,dummyShow,dummySeries,;1;170;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;1;;\N;DRM,Inter;es;1;0;0;0;;1
+CINECANAL;1;tv;CINECANAL FHD;CINECANAL_stream_3x;14;3467;,movie,dummyShow,dummySeries,;1;53;82;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;\N;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+CINEFAMILIAR;1;tv;CINE FAMILIAR HD;CINEFAMILIAR_stream_pg;14;5481;,movie,dummyShow,dummySeries,;1;63;90;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Peliculas;;0;;\N;1440,DRM;es;1;0;0;0;;1
+CINEHISPANO;1;tv;CINE HISPANO HD;CINEHISPANO_stream_ny;14;4564;,movie,dummyShow,dummySeries,;1;64;91;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Peliculas;;0;;\N;1440,DRM;es;1;0;0;0;;1
+CINELATINO;1;tv;CINE LATINO HD;CINELATINO_stream_u4;14;508;,movie,dummyShow,dummySeries,;1;143;\N;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;\N;\N;Peliculas;;0;;\N;DRM,4320;es;1;0;0;0;;1
+CINEMAX;1;tv;CINEMAX FHD;CINEMAX_stream_do;14;1574;,movie,dummyShow,dummySeries,;1;54;83;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+CINEMAX_HD_INTER;1;tv;CINEMAX HD;CINEMAX_HD_INTER_stream_xb;14;1574;,movie,dummyShow,dummySeries,;1;200;\N;0;1;Inter;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+CINEPREMIUM;1;tv;CINE PREMIUM HD;CINEPREMIUM_stream_gx;14;5257;,movie,dummyShow,dummySeries,;1;62;89;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Peliculas;;0;;\N;1440,DRM;es;1;0;0;0;;1
+CLAROSPORTS_2_INTER;0;tv;CLARO SPORTS 2 HD;CLAROSPORTS_2_INTER_stream_ia;14;8339;;1;227;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+CLAROSPORTS_3_INTER;0;tv;CLARO SPORTS 3 HD;CLAROSPORTS_3_INTER_stream_at;14;3555;;1;228;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+CLAROSPORTS_4_INTER;0;tv;CLARO SPORTS 4 HD;CLAROSPORTS_4_INTER_stream_uv;14;3556;;1;229;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+CLARO_SPORTS_HD;1;tv;CLARO SPORTS HD;CLARO_SPORT_stream_gj;14;1906;;1;230;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa;\N;Deportes;;1;;\N;1440,DRM;es;1;0;0;0;;1
+CLARO_SPORTS_INTER;1;tv;CLARO SPORTS HD;CLARO_SPORTS_INTER_stream_gd;14;1906;,movie,dummyShow,dummySeries,;1;207;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+CNNINTERNACIONAL;1;tv;CNN INTERNACIONAL;CNNINTERNACIONAL_stream_mm;14;13;,movie,dummyShow,dummySeries,;1;107;184;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+COMEDY_CENTRAL;1;tv;COMEDY CENTRAL;COMEDY_CENTRAL_stream_dm;14;2037;,movie,dummyShow,dummySeries,;1;57;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;general;;0;;\N;DRM,Inter;es;1;0;0;0;;1
+CUBAVISION;1;tv;CUBA VISION;CUBAVISION_stream_r8;14;3613;,movie,dummyShow,dummySeries,;1;14;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+CURIOSITY;1;tv;CURIOSITY HD;CURIOSITY_stream_wi;14;5248;,movie,dummyShow,dummySeries,;1;247;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Documentales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+DEPELICULA;1;tv;DE PELICULA HD;DEPELICULA_stream_5u;14;137;,movie,dummyShow,dummySeries,;1;52;81;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Peliculas;;1;;\N;1440,DRM;es;1;0;0;0;;1
+DHE;1;tv;DHE HD;DHE_stream_rw;14;3068;,movie,dummyShow,dummySeries,;1;248;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;general;;1;;\N;1440,DRM;es;1;0;0;0;;1
+DISCOVERYCHANNEL;1;tv;DISCOVERY CHANNEL;DISCOVERYCHANNEL_stream_g8;14;438;,movie,dummyShow,dummySeries,;1;69;107;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Documentales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+DISCOVERYCHANNEL_HD_INTER;1;tv;DISCOVERY CHANNEL HD;DISCOVERY_CHANNEL_HD_INTER_stream_am;14;438;,movie,dummyShow,dummySeries,;1;195;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Documentales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+DISCOVERYHH_HD_INTER;1;tv;DISCOVERY H&H HD;Discovery_HH_HD_INTER_stream_mn;14;3135;,movie,dummyShow,dummySeries,;1;0;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Documentales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+DISCOVERYHYH;1;tv;DISCOVERY H&H;DISCOVERYHYH_stream_wf;14;3135;,movie,dummyShow,dummySeries,;1;29;47;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Documentales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+DISCOVERYKIDS;1;tv;DISCOVERY KIDS;DISCOVERYKIDS_stream_1h;14;396;,movie,dummyShow,dummySeries,;1;80;126;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Infantiles;;0;;\N;1440,DRM;es;1;0;0;0;;1
+DISCOVERYSCIENCE;1;tv;DISCOVERY SCIENCE;DISCOVERYSCIENCE_stream_3l;14;493;,movie,dummyShow,dummySeries,;1;72;109;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Documentales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+DISCOVERYTHEATER;1;tv;DISCOVERY THEATER HD;DISCOVERYTHEATER_stream_he;14;1181;,movie,dummyShow,dummySeries,;1;164;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Documentales;;1;;\N;DRM,Inter;es;1;0;0;0;;1
+DISCOVERYTURBO;1;tv;DISCOVERY TURBO;DISCOVERYTURBO_stream_df;14;492;,movie,dummyShow,dummySeries,;1;73;110;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Documentales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+DISCOVERY_KIDS_HD_INTER;1;tv;DISCOVERY KIDS HD;DISCOVERY_KIDS_HD_INTER_stream_oo;14;396;,movie,dummyShow,dummySeries,;1;198;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Infantiles;;1;;\N;1440,DRM;es;1;0;0;0;;1
+DISCOVERY_TURBO_HD_INTER;1;tv;DISCOVERY TURBO HD;DISCOVERY_TURBO_HD_INTER_stream_34;14;492;,movie,dummyShow,dummySeries,;1;0;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Documentales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+DISNEYCHANNEL;1;tv;DISNEY CHANNEL FHD;DISNEYCHANNEL_stream_ki;14;386;,movie,dummyShow,dummySeries,;1;81;127;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Infantiles;;1;;\N;1440,DRM;es;1;0;0;0;;1
+DISNEYJR;1;tv;DISNEY JR FHD;DISNEYJR_stream_0p;14;1102;,movie,dummyShow,dummySeries,;1;82;128;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Infantiles;;1;;\N;1440,DRM;es;1;0;0;0;;1
+DSPORTS2;1;tv;DSPORTS2 HD;DSPORTS2_stream_ka;14;6998;,movie,dummyShow,dummySeries,;1;151;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Deportes;;1;;\N;1440,DRM;es;1;0;0;0;;1
+DSPORTSFIGHT;1;tv;DSPORTS FIGHT HD;DFIGHT_stream_ff;14;7170;,movie,dummyShow,dummySeries,;1;154;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Deportes;;1;;\N;DRM,720,prueba;es;1;0;0;0;;1
+DSPORTSPAN;1;tv;DSPORTS HD;DSPORTPAN_stream_6i;14;6996;,movie,dummyShow,dummySeries,;1;150;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Deportes;;1;;\N;1440,DRM;es;1;0;0;0;;1
+DSPORTSPLUS;1;tv;DSPORTS+ HD;DSPORTSPLUS_stream_ok;14;7000;,movie,dummyShow,dummySeries,;1;152;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Deportes;;1;;\N;1440,DRM;es;1;0;0;0;;1
+DUCK_TV;1;tv;DUCK TV HD;DUCK_TV_stream_it;14;7990;,movie,dummyShow,dummySeries,;1;251;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa;\N;Infantiles;;1;;\N;1440,DRM;es;1;0;0;0;;1
+DWespanol;0;tv;DW HD;DWespanol_stream_on;14;16;,movie,dummyShow,dummySeries,;1;118;206;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Internacionales;;1;;\N;DRM,720;es;1;0;0;0;;1
+EIENTERTAINMENT;1;tv;E! ENTERTAINMENT FHD;EIENTERTAINMENT_stream_ix;14;491;,movie,dummyShow,dummySeries,;1;27;45;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Documentales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+ELGOURMET;1;tv;EL GOURMET FHD;ELGOURMET_stream_44;14;351;,movie,dummyShow,dummySeries,;1;31;49;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Variedades;;1;;\N;1440,DRM;es;1;0;0;0;;1
+ELTRECEINTERNACIONAL;1;tv;EL TRECE INTERNACIONAL;ELTRECEINTERNACIONAL_stream_zm;14;1154;,movie,dummyShow,dummySeries,;1;165;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;0;;\N;DRM,Inter;es;1;0;0;0;;1
+ENLACETBN;1;tv;ENLACE TBN;ENLACETBN_stream_zq;14;413;,movie,dummyShow,dummySeries,;1;67;100;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Internacionales;;0;;\N;DRM,720;es;1;0;0;0;;1
+ESPN;1;tv;ESPN HD;ESPN_stream_z8;14;2603;,movie,dummyShow,dummySeries,;1;97;164;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Deportes;;1;;\N;1440,DRM;es;1;0;0;0;;1
+ESPN2;1;tv;ESPN 2 HD;ESPN2_stream_0n;14;2899;,movie,dummyShow,dummySeries,;1;98;165;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Deportes;;1;;\N;1440,DRM;es;1;0;0;0;;1
+ESPN2_INTER_BOLIVIA;1;tv;ESPN 2 BO HD;ESPN2_INTER_BOLIVIA_stream_h9;11;\N;;1;214;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+ESPN2_INTER_CHILE;1;tv;ESPN 2 CL HD;ESPN2_INTER_CHILE_stream_d2;\N;\N;;1;211;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+ESPN3HD;1;tv;ESPN 3 HD;ESPN3HD_stream_pz;14;2020;,movie,dummyShow,dummySeries,;1;99;166;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM;es;1;0;0;0;;1
+ESPN3_INTER_BOLIVIA_CHILE;1;tv;ESPN 3 BO-CL HD;ESPN3_INTER_BOLIVIA_CHILE_stream_3p;11;\N;;1;212;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+ESPN4HD;1;tv;ESPN 5 FHD;ESPN4HD_stream_yq;14;4362;,movie,dummyShow,dummySeries,;1;100;167;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM;es;1;0;0;0;;1
+ESPN4_INTER_CHILE-BOLIVIA;1;tv;ESPN 4 HD;ESPN4_INTER_CHILE-BOLIVIA_stream_pn;11;\N;;1;221;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+ESPN5_INTER_BOLIVIA;1;tv;ESPN 5 BO HD;ESPN4_INTER_BOLIVIA_stream_5u;11;\N;;1;216;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+ESPN5_INTER_CHILE;1;tv;ESPN 5 CL HD;ESPN4_INTER_CHILE_stream_y1;11;\N;;1;213;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+ESPN6_INTER_BOLIVIA;1;tv;ESPN 6 HD;ESPN6_INTER_BOLIVIA_stream_su;11;\N;;0;217;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;0;0;\N;\N;Deportes;;1;;\N;;es;1;0;0;0;;1
+ESPN7_INTER_CHILE-BOLIVIA;1;tv;ESPN 7 BO HD;ESPN7_INTER_CHILE-BOLIVIA_stream_s7;11;\N;;1;213;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+ESPNEXTRA;1;tv;ESPN 4 HD;ESPNEXTRA_stream_09;14;1132;,movie,dummyShow,dummySeries,;1;101;168;0;1;NetUno;\N;0;\N;1440;1440;1;2;0;0;spa,eng;\N;Deportes;;1;;\N;1440,DRM;es;1;0;0;0;;1
+ESPN_INTER_BOLIVIA;1;tv;ESPN BO HD;ESPN_INTER_BOLIVIA_stream_mm;11;\N;;1;215;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+ESPN_INTER_CHILE;1;tv;ESPN CL HD;ESPN_INTER_CHILE_stream_w2;11;\N;;1;220;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+espn_ll;1;tv;ESPN HD (Low Latency);espn1_ll_stream_bs;14;2603;,movie,dummyShow,dummySeries,;1;243;\N;0;1;internet;\N;0;\N;1440;1440;1;2;0;0;spa,eng;\N;Deportes;;1;;\N;1440,DRM;es;1;0;0;0;;1
+ESPN_PREMIUN_INTER_CHILE;1;tv;ESPN PREMIUN;ESPN5_INTER_CHILE_stream_zx;17;\N;;1;219;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+ESPORTSMAX;1;tv;ESPORTS MAX HD;ESPORTSMAX_stream_mo;14;7412;,movie,dummyShow,dummySeries,;1;105;173;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Deportes;;1;;\N;DRM,720;es;1;0;0;0;;1
+EUROCHANNEL;1;tv;EUROCHANNEL;EUROCHANNEL_stream_4a;14;337;,movie,dummyShow,dummySeries,;1;159;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;0;;\N;DRM,Inter;es;1;0;0;0;;1
+EURONEWS;1;tv;EURO NEWS HD;EURONEWS_stream_js;14;962;,movie,dummyShow,dummySeries,;1;149;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+EUROPA;1;tv;EUROPAEUROPA FHD;EUROPA_stream_21;14;184;,movie,dummyShow,dummySeries,;1;61;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Peliculas;;1;;\N;1440,DRM;es;1;0;0;0;;1
+EWTN;1;tv;EWTN;EWTN_stream_8x;14;64;,movie,dummyShow,dummySeries,;1;65;99;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Religioso;;0;;\N;1440,DRM;es;1;0;0;0;;1
+EXTREME;1;tv;EXTREME HD;EXTREME_stream_4t;14;9169;,movie,dummyShow,dummySeries,;1;247;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa;\N;general;;1;;\N;1440,DRM;es;1;0;0;0;;1
+E_HD_INTER;1;tv;E! ENTERTAINMENT HD;E_HD_INTER_stream_lg;14;491;,movie,dummyShow,dummySeries,;1;203;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Documentales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+FILMandARTS;1;tv;FILM & ARTS FHD;FILMandARTS_stream_uj;14;63;,movie,dummyShow,dummySeries,;1;60;88;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Series;;1;;\N;1440,DRM;es;1;0;0;0;;1
+FIXyFOXI;1;tv;FIX & FOXI HD;FIXyFOXI_stream_iv;14;7008;,movie,dummyShow,dummySeries,;1;135;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Variedades;;1;;\N;1440,DRM;es;1;0;0;0;;1
+FOODNETWORK;1;tv;FOOD NETWORK;FOODNETWORK_stream_m1;14;3438;,movie,dummyShow,dummySeries,;1;32;50;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+FOODNETWORK_HD_INTER;1;tv;FOOD NETWORK HD;FOODNETWORK_HD_INTER_stream_ol;14;3438;,movie,dummyShow,dummySeries,;1;205;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+FoxSport2;1;tv;ESPN 7 FHD;FoxSport2_stream_eq;14;2202;,movie,dummyShow,dummySeries,;1;102;171;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM;es;1;0;0;0;;1
+FOXSPORTS3;1;tv;ESPN 6 FHD;FOXSPORTS3_stream_8d;14;3898;,movie,dummyShow,dummySeries,;1;103;172;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM;es;1;0;0;0;;1
+FUELTV;1;tv;FUEL TV HD;FUELTVpr_stream_h3;14;5546;,movie,dummyShow,dummySeries,;1;123;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Variedades;;1;;\N;1440,DRM;es;1;0;0;0;;1
+FX;1;tv;FX FHD;FX_stream_4z;14;427;,movie,dummyShow,dummySeries,;1;39;68;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Peliculas;;0;;\N;DRM,4320;es;1;0;0;0;;1
+GLOBOVISION;1;tv;GLOBOVISION FHD;GLOBOVISION_stream_f8;14;309;,movie,dummyShow,dummySeries,;1;5;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+GOLDENEDGE;1;tv;GOLDEN EDGE HD;GOLDENEDGE_stream_0l;14;1069;,movie,dummyShow,dummySeries,;1;55;84;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+GOLDENHD;1;tv;GOLDEN PLUS HD;GOLDENHD_stream_k9;14;1500;,movie,dummyShow,dummySeries,;1;42;71;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+GOLDENPREMIER2;1;tv;GOLDEN PREMIER OESTE HD;GOLDENPREMIER2_stream_yo;14;2378;,movie,dummyShow,dummySeries,;1;146;\N;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+GOLDEN_HD;1;tv;GOLDEN HD;PR_GOLDENHD_stream_su;14;401;,movie,dummyShow,dummySeries,;1;148;\N;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;\N;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+GOLDEN_HD_INTER;1;tv;GOLDEN HD;GOLDEN_HD_INTER_stream_jd;14;1500;,movie,dummyShow,dummySeries,;1;0;\N;0;1;Inter;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+GOLDEPREMIER;1;tv;GOLDEN PREMIER ESTE HD;GOLDEPREMIER_stream_gp;14;2376;,movie,dummyShow,dummySeries,;1;145;\N;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+GOLTV;1;tv;GOL TV HD;GOLTV_stream_9g;14;8451;,movie,dummyShow,dummySeries,;1;161;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;DRM,Inter;es;1;0;0;0;;1
+HBO;1;tv;HBO HD;HBO_stream_08;14;21;,movie,dummySeries,dummyShow,;1;237;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+HBO_2;1;tv;HBO 2 HD;HBO_2_stream_er;14;2684;,movie,dummySeries,dummyShow,;1;238;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+HBO_FAMILY;1;tv;HBO FAMILY;HBO_FAMILY_stream_d7;14;2687;,movie,dummySeries,dummyShow,;1;239;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+HBO_MUNDI;1;tv;HBO MUNDI HD;HBO_MUNDI_stream_4s;14;1348;,movie,dummySeries,dummyShow,;1;240;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+HBO_PLUS;1;tv;HBO PLUS HD;HBO_PLUS_stream_51;14;2686;,movie,dummySeries,dummyShow,;1;239;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+HBO_POP;1;tv;HBO POP;HBO_POP_stream_t8;14;3422;,movie,dummySeries,dummyShow,;1;237;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+HBO_SIGNATURE;1;tv;HBO SIGNATURE;HBO_SIGNATURE_stream_xi;14;2065;,movie,dummySeries,dummyShow,;1;240;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+HBO_XTREME;1;tv;HBO XTREME;HBO_XTREME_stream_oa;14;2688;,movie,dummySeries,dummyShow,;1;241;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+HEROSTV_HD;1;tv;HEROS TV HD;HEROSTV_HD_stream_ft;\N;\N;;1;210;\N;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Deportes;;1;;\N;DRM,720;\N;1;0;0;0;;1
+HGTV;1;tv;HGTV;HGTV_stream_mh;14;1531;,movie,dummyShow,dummySeries,;1;28;46;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+HGTV_HD_INTER;1;tv;HGTV HD;HGTV_HD_INTER_stream_8f;14;1531;,movie,dummyShow,dummySeries,;1;0;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+HISPANTV;1;tv;HISPAN TV;HISPANTV_stream_mv;14;2267;,movie,dummyShow,dummySeries,;1;16;19;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+HISTORY2;1;tv;HISTORY 2 FHD;HISTORY2_stream_7l;14;2824;,movie,dummyShow,dummySeries,;1;77;113;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Documentales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+HISTORY_2_HD_INTER;1;tv;HISTORY 2 HD;History_2_HD_INTER_stream_bp;14;2824;,movie,dummyShow,dummySeries,;1;0;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Documentales;;1;;\N;DRM,4320;es;1;0;0;0;;1
+HISTORY_CHANNEL_HD_INTER;1;tv;HISTORY CHANNEL HD;HISTORY_CHANNEL_HD_INTER_stream_a3;14;445;,movie,dummyShow,dummySeries,;1;197;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Documentales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+HOLATV;1;tv;HOLA TV HD;HOLATV_HD_stream_dv;14;2669;,movie,dummyShow,dummySeries,;1;126;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+HTV;1;tv;HTV;HTV_stream_t2;14;115;,movie,dummyShow,dummySeries,;1;89;145;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Musicales;;0;;\N;DRM,720;es;1;0;0;0;;1
+HTV_HD_INTER;1;tv;HTV HD;HTV_HD_INTER_stream_wd;14;115;,movie,dummyShow,dummySeries,;1;0;\N;0;1;Inter;\N;0;\N;720;720;1;2;1;0;\N;\N;Musicales;;1;;\N;DRM,720;es;1;0;0;0;;1
+INVESTIGATIONDISCOVERY;1;tv;ID;INVESTIGATIONDISCOVERY_stream_27;14;591;,movie,dummyShow,dummySeries,;1;68;106;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Documentales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+INVESTIGATION_DISCOVERY_HD_INTER;1;tv;ID HD;INVESTIGATION_DISCOVERY_HD_INTER_stream_;14;591;,movie,dummyShow,dummySeries,;1;196;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Documentales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+IVC;1;tv;IVC FHD;IVC_stream_ke;14;7604;,movie,dummyShow,dummySeries,;1;34;252;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+KIDOO;1;tv;KIDOO HD;KIDOO_stream_w7;14;8608;;1;231;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa;\N;Infantiles;;1;;\N;1440,DRM;es;1;0;0;0;;1
+LASESTRELLAS;1;tv;LAS ESTRELLAS FHD;LASESTRELLAS_stream_jw;14;9;,movie,dummyShow,dummySeries,;1;23;42;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+LATINANGELS;1;tv;LATIN ANGELS HD;LATINANGELS_stream_hl;14;7022;,movie,dummyShow,dummySeries,;1;138;\N;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Variedades;;1;;\N;DRM,720;es;1;0;0;0;;1
+LIFETIME;1;tv;LIFETIME FHD;LIFETIME_stream_qh;14;2790;,movie,dummyShow,dummySeries,;1;46;75;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Peliculas;;1;;\N;1440,DRM;es;1;0;0;0;;1
+mambo_fm;1;radio;Mambo FM;MAMBOFM_stream_fj;11;\N;,movie,dummyShow,dummySeries,;1;177;\N;0;1;NetUno;\N;0;\N;60;60;0;0;0;0;\N;\N;general;;0;;\N;;\N;1;0;0;0;;1
+MASCHIC;1;tv;MAS CHIC FHD;MASCHIC_stream_g4;14;1752;,movie,dummyShow,dummySeries,;1;30;48;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+MAS_CHIC_HD_INTER;1;tv;MAS CHIC HD;MAS_CHIC_HD_INTER_stream_by;14;1752;,movie,dummyShow,dummySeries,;1;202;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+MAXANIME;1;tv;MAX ANIME HD;MAX_ANIME_stream_0l;14;8546;,movie,dummyShow,dummySeries,;1;106;\N;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Infantiles;;1;;\N;DRM,720;es;1;0;0;0;;1
+MEGA;1;tv;MEGA;MEGA_stream_a9;14;3242;,movie,dummyShow,dummySeries,;1;169;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;1;;\N;DRM,Inter;es;1;0;0;0;;1
+MERIDIANOTV;1;tv;MERIDIANO TV HD;MERIDIANOTV_stream_f2;14;934;,movie,dummyShow,dummySeries,;1;6;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM;es;1;0;0;0;;1
+MIMUSICAHITS;1;tv;MI MUSICA HITS HD;MIMUSICAHITS_stream_k7;14;7403;,movie,dummyShow,dummySeries,;1;95;151;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;No disponible;Musicales;;0;;\N;DRM,720;es;1;0;0;0;;1
+MIMUSICAREGGAETON;1;tv;MI MUSICA REGGAETON HD;MIMUSICAREGGAETON_stream_40;14;6761;,movie,dummyShow,dummySeries,;1;93;149;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Musicales;;1;;\N;DRM,720;es;1;0;0;0;;1
+MIMUSICAROMANTICA;1;tv;MI MUSICA ROMANTICA HD;MIMUSICAROMANTICA_stream_pp;14;6760;,movie,dummyShow,dummySeries,;1;94;150;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Musicales;;1;;\N;DRM,720;es;1;0;0;0;;1
+MIMUSICASALSA;1;tv;MI MUSICA SALSA HD;MIMUSICASALSA_stream_yq;14;6762;,movie,dummyShow,dummySeries,;1;96;152;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Musicales;;1;;\N;DRM,720;es;1;0;0;0;;1
+MOTOADV;1;tv;MOTO ADV HD;MOTOADV_stream_lz;14;7043;,movie,dummyShow,dummySeries,;1;140;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Variedades;;1;;\N;1440,DRM;es;1;0;0;0;;1
+MOVIES_FE;1;tv;MOVIES FE HD;MOVIES_FE_stream_70;\N;\N;,movie,dummyShow,dummySeries,;1;246;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa;\N;Variedades;;1;;\N;1440,DRM;es;1;0;0;0;;1
+MTVHD;1;tv;MTV FHD;MTVHD_stream_03;14;6937;,movie,dummyShow,dummySeries,;1;90;146;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Musicales;;1;;\N;DRM,720;es;1;0;0;0;;1
+MTVHITS;1;tv;MTV HITS;MTVHITS_stream_ec;14;727;,movie,dummyShow,dummySeries,;1;91;147;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;spa,eng;\N;Musicales;;0;;\N;DRM,720;es;1;0;0;0;;1
+MULTICENEMA;1;tv;MULTICINEMA HD;MULTICENEMA_stream_et;14;792;,movie,dummyShow,dummySeries,;1;127;\N;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;\N;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+MULTIPREMIER;1;tv;MULTIPREMIER HD;MULTIPREMIER_stream_bq;14;106;,movie,dummyShow,dummySeries,;1;50;79;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Peliculas;;1;;\N;1440,DRM;es;1;0;0;0;;1
+nasa_uhd;0;tv;NASA UHD;nasatv_uhd_stream_kz;11;\N;,movie,dummyShow,dummySeries,;1;75;\N;0;1;NetUno;\N;0;\N;720;720;1;2;0;0;\N;\N;Internacionales;;1;;\N;720;\N;1;0;0;0;;1
+NATGEO;1;tv;NAT GEO FHD;NATGEO_stream_fd;14;404;,movie,dummyShow,dummySeries,;1;74;111;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Documentales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+NICKELODEON;1;tv;NICKELODEON FHD;NICKELODEON_stream_d6;14;1229;,movie,dummyShow,dummySeries,;1;86;132;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Infantiles;;1;;\N;1440,DRM;es;1;0;0;0;;1
+NICKELODEON_HD_INTER;1;tv;NICKELODEON HD;NICKELODEON_HD_INTER_stream_dh;14;1229;,movie,dummyShow,dummySeries,;1;199;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Infantiles;;1;;\N;1440,DRM;es;1;0;0;0;;1
+NICKJR;1;tv;NICK JR FHD;NICKJR_stream_em;14;1226;,movie,dummyShow,dummySeries,;1;84;130;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Infantiles;;1;;\N;1440,DRM;es;1;0;0;0;;1
+NOVELISIMA;1;tv;NOVELISIMA;NOVELISIMA_stream_d0;14;6898;,movie,dummyShow,dummySeries,;1;144;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Variedades;;1;;\N;1440,DRM;es;1;0;0;0;;1
+OXIGENO_TV;1;tv;OXIGENO TV HD;OXIGENO_TV_stream_qc;\N;\N;,movie,dummyShow,dummySeries,;1;246;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa;\N;Variedades;;1;;\N;1440,DRM;es;1;0;0;0;;1
+PADEL_TV;1;tv;PADEL TV HD;PADEL_TV_stream_7w;14;9167;;1;236;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM;es;1;0;0;0;;1
+PARAMOUNT;1;tv;PARAMOUNT FHD;PARAMOUNT_stream_oa;14;2910;,movie,dummyShow,dummySeries,;1;56;85;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+PARAMOUNT_HD_INTER;1;tv;PARAMOUNT HD;PARAMOUNT_HD_INTER_stream_2d;14;2910;,movie,dummyShow,dummySeries,;1;0;\N;0;1;Inter;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+PASIONES;1;tv;PASIONES HD;PASIONESpr_stream_4z;14;1976;,movie,dummyShow,dummySeries,;1;125;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Variedades;;1;;\N;1440,DRM;es;1;0;0;0;;1
+PENTHOUSE;1;tv;PENTHOUSE;PENTHOUSE_stream_m3;14;2001;,movie,dummyShow,dummySeries,;1;120;217;0;1;NetUno;\N;1;\N;1440;1440;1;2;1;0;\N;\N;erotic;;0;;\N;1440,DRM;es;1;0;0;0;;1
+PLAYBOY;1;tv;PLAYBOY;PLAYBOY_stream_it;14;114;,movie,dummyShow,dummySeries,;1;117;215;0;1;NetUno;\N;1;\N;1440;1440;1;2;1;0;\N;\N;erotic;;1;;\N;1440,DRM;es;1;0;0;0;;1
+PLOUS_TV;1;tv;PLOUS TV HD;PLOUS_TV_stream_xc;\N;\N;,movie,dummyShow,dummySeries,;1;245;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa;\N;Variedades;;1;;\N;1440,DRM;es;1;0;0;0;;1
+PROMAR_TV;1;tv;PROMAR TV;PROMAT_TV_stream_xi;14;2452;,movie,dummyShow,dummySeries,;1;244;\N;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Nacionales;;1;;\N;DRM,4320;es;1;0;0;0;;1
+PXSPORT;1;tv;PX SPORT HD;PXSOPORT_stream_o8;14;2063;,movie,dummyShow,dummySeries,;1;160;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;DRM,Inter;es;1;0;0;0;;1
+Radio_Exitos_99_9;1;radio;Exitos 99.9;Radio_Prueba_Exitos_99_9_stream_tc;\N;\N;;0;249;\N;0;1;NetUno;\N;0;\N;0;0;0;0;1;0;spa;\N;Musicales;;0;;\N;DRM;\N;1;0;0;0;;1
+Radio_La_Mega;1;radio;LA MEGA;Radio_Prueba_stream_8h;\N;\N;;0;250;\N;0;1;NetUno;\N;0;\N;0;0;0;0;1;0;spa;\N;Musicales;;0;;\N;DRM;\N;1;0;0;0;;1
+RAI;1;tv;RAI FHD;RAI_stream_o1;14;29;,movie,dummyShow,dummySeries,;1;111;198;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+REDEGLOBO;0;tv;REDE GLOBO;REDEGLOBO_stream_tg;14;1669;,movie,dummyShow,dummySeries,;1;115;201;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+RED_UNO;0;tv;RED UNO LP;RED_UNO_stream_fx;14;8452;,movie,dummyShow,dummySeries,;1;176;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;1;;\N;DRM,Inter;es;1;0;0;0;;1
+REKTV;0;tv;REK TV HD;REKTV_stream_lb;14;7044;,movie,dummyShow,dummySeries,;1;139;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Variedades;;1;;\N;1440,DRM;es;1;0;0;0;;1
+RTP;1;tv;RTP;RTP_stream_x0;14;411;,movie,dummyShow,dummySeries,;1;113;200;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+RUSSIATODAY;1;tv;RUSSIA TODAY;RUSSIATODAY_stream_zm;14;1502;,movie,dummyShow,dummySeries,;1;21;30;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+SEXTREME;1;tv;SEXTREME;SEXTREME_stream_9n;14;628;,movie,dummyShow,dummySeries,;1;121;219;0;1;NetUno;\N;1;\N;1440;1440;1;2;1;0;\N;\N;erotic;;0;;\N;1440,DRM;es;1;0;0;0;;1
+SHOWBUSI;1;tv;SHOW BUSINESS HD;SHOWBUSI_stream_iq;14;7025;,movie,dummyShow,dummySeries,;1;141;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Variedades;;1;;\N;1440,DRM;es;1;0;0;0;;1
+SHOWVEN;1;tv;SHOWVEN;SHOWVEN_stream_9x;14;3901;,movie,dummyShow,dummySeries,;1;155;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+SONYCHANNEL;1;tv;SONY CHANNEL FHD;SONYCHANEL_SUBS_stream_iu;14;446;,movie,dummyShow,dummySeries,;1;37;66;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Series;;1;;\N;DRM,4320;es;1;0;0;0;;1
+SONYMOVIES;1;tv;SONY MOVIES FHD;SONYMOVIES_stream_uv;14;6336;,movie,dummyShow,dummySeries,;1;36;\N;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Series;;1;;\N;DRM,4320;es;1;0;0;0;;1
+SPACE;1;tv;SPACE FHD;SPACE_stream_fk;14;3167;,movie,dummyShow,dummySeries,;1;43;72;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;\N;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+SPORTSMAXNEWS;1;tv;SPORTSMAX NEWS HD;SPORTSMAXNEWS_stream_li;14;7707;,movie,dummyShow,dummySeries,;1;104;\N;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Deportes;;1;;\N;DRM,720;es;1;0;0;0;;1
+STARCHANNEL;1;tv;STAR CHANNEL FHD;STARCHANNEL_stream_vz;14;1537;,movie,dummyShow,dummySeries,;1;41;70;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Peliculas;;1;;\N;4320,DRM;es;1;0;0;0;;1
+STUDIOUNIVERSAL;1;tv;STUDIO UNIVERSAL FHD;STUDIOUNIVERSAL_stream_95;14;580;,movie,dummyShow,dummySeries,;1;48;77;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+STUDIO_UNIVERSAL_HD_INTER;1;tv;STUDIO UNIVERSAL HD;STUDIO_UNIVERSAL_HD_INTER_stream_uc;14;580;,movie,dummyShow,dummySeries,;1;0;\N;0;1;Inter;\N;0;\N;4320;4320;1;2;1;0;\N;\N;Documentales;;1;;\N;DRM,4320;es;1;0;0;0;;1
+SUNCHANNEL;1;tv;SUN CHANNEL HD;SUNCHANNEL_stream_5s;14;771;,movie,dummyShow,dummySeries,;1;79;115;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Musicales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+suspendCHAba;1;tv;Suspendido AbaTV GO;SuspenAba_stream_9f;15;\N;;0;232;\N;0;1;internet;\N;0;\N;10;10;0;0;0;0;\N;\N;Nacionales;;1;;\N;;\N;1;0;0;0;;1
+Suspendido;1;tv;Suspendido NetunoGO;suependido_stream_q4;15;1;,movie,dummyShow,dummySeries,;1;122;\N;0;1;NetUno;\N;0;\N;60;60;1;2;0;0;\N;\N;general;;1;;\N;;es;1;0;0;0;;1
+SYFY;1;tv;USA NETWORK;SYFY_stream_7m;14;8327;,movie,dummyShow,dummySeries,;1;59;87;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Peliculas;;0;;\N;1440,DRM;es;1;0;0;0;;1
+TAM;1;tv;TAM;TAM_stream_jo;14;3331;,movie,dummyShow,dummySeries,;1;20;29;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Locales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+TCM;1;tv;TCM;TCM_stream_9d;14;910;,movie,dummyShow,dummySeries,;1;49;78;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Peliculas;;0;;\N;1440,DRM;es;1;0;0;0;;1
+TELEARAGUA;1;tv;TELEARAGUA;TELEARAGUA_stream_zq;14;3332;,movie,dummyShow,dummySeries,;1;19;28;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Locales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+TELECOLOR;1;tv;TELECOLOR;TELECOLOR_stream_30;14;3334;,movie,dummyShow,dummySeries,;1;15;\N;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;general;;0;;\N;DRM,720;es;1;0;0;0;;1
+TELEHIT;1;tv;TELEHIT HD;TELEHIT_stream_eq;14;1564;,movie,dummyShow,dummySeries,;1;92;148;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Musicales;;1;;\N;DRM,720;es;1;0;0;0;;1
+TELEHITURB;1;tv;TELEHIT MUSICA HD;TELEHITURB_stream_vp;14;30;,movie,dummyShow,dummySeries,;1;147;\N;0;1;NetUno;\N;0;\N;720;720;1;2;1;0;\N;\N;Musicales;;1;;\N;DRM,720;es;1;0;0;0;;1
+TELEMUNDOINTERNACIONAL;1;tv;TELEMUNDO INTERNACIONAL FHD;TELEMUNDOINTERNACIONAL_stream_bq;14;1153;,movie,dummyShow,dummySeries,;1;25;44;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+TELESUR;1;tv;TELESUR;TELESUR_stream_xl;14;388;,movie,dummyShow,dummySeries,;1;2;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+TELEVEN;1;tv;TELEVEN FHD;TELEVEN_stream_d3;14;408;,movie,dummyShow,dummySeries,;1;7;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+THEHISTORYCHANNEL;1;tv;THE HISTORY CHANNEL FHD;THEHISTORYCHANNEL_stream_dr;14;445;,movie,dummyShow,dummySeries,;1;76;112;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Documentales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+TITAN_CHANNEL;1;tv;TITAN CHANNEL HD;TITAN_CHANNEL_stream_4o;14;8558;,movie,dummyShow,dummySeries,;1;247;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa;\N;general;;1;;\N;1440,DRM;es;1;0;0;0;;1
+TLC;1;tv;TLC;TLC_stream_jq;14;339;,movie,dummyShow,dummySeries,;1;33;51;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Documentales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+TLNOVELAS;1;tv;TL NOVELAS FHD;TLNOVELAS_stream_8h;14;170;,movie,dummyShow,dummySeries,;1;24;43;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+TLT;1;tv;TLT FHD;TLT_stream_7m;14;3530;,movie,dummyShow,dummySeries,;1;10;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+TNTSERIES;1;tv;TNT SERIES FHD;TNTSERIES_stream_ws;14;3041;,movie,dummyShow,dummySeries,;1;58;86;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Series;;1;;\N;1440,DRM;es;1;0;0;0;;1
+TNT_HD;1;tv;TNT FHD;TNTHD_stream_s5;14;3804;,movie,dummyShow,dummySeries,;1;242;\N;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+TNT_SPORTS_INTER_CHILE;1;tv;TNT SPORTS;TNT_SPORTS_INTER_CHILE_stream_3p;11;\N;;1;218;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+TNT_SPORTS_PREMIUN_INTER_CHILE;1;tv;TNT SPORTS PREMIUN;TNT_SPORTS2_INTER_CHILE_stream_aj;11;\N;;1;224;\N;0;1;Inter;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+TOONCAST;1;tv;TOONCAST;TOONCAST_stream_kk;14;880;,movie,dummyShow,dummySeries,;1;158;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Infantiles;;0;;\N;DRM,Inter;es;1;0;0;0;;1
+TRT_SRC;1;tv;TRT;TRT_SRC_stream_zp;14;3343;;1;225;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Locales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+TRUTV;0;tv;TRUTV;TRUTV_stream_gg;14;1256;,movie,dummyShow,dummySeries,;1;35;53;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+TV5MONDE;1;tv;TV5 MONDE HD;TV5MONDE_stream_gi;14;38;,movie,dummyShow,dummySeries,;1;112;199;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa,eng;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+TVEINTERNACIONAL;1;tv;TVE INTERNACIONAL;TVEINTERNACIONAL_stream_3q;14;59;,movie,dummyShow,dummySeries,;1;108;195;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+TVES;1;tv;TVES FHD;TVES_stream_et;14;2186;,movie,dummyShow,dummySeries,;1;1;555;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+TVFAMILIA;1;tv;TV FAMILIA HD;TVFAMILIA_stream_vj;14;2595;,movie,dummyShow,dummySeries,;1;11;21;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+TVFANB;1;tv;TVFANB;TVFANB_stream_51;14;3313;,movie,dummyShow,dummySeries,;1;9;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+TVGALICIA;1;tv;TV GALICIA;TVGALICIA_stream_cs;14;65;,movie,dummyShow,dummySeries,;1;109;196;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+TVN;1;tv;TVN;TVN_stream_9l;14;3622;,movie,dummyShow,dummySeries,;0;167;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;1;;\N;DRM,Inter;es;1;0;0;0;;1
+TVR;1;tv;TRV;TVR_Maracay_stream_pw;14;3344;,movie,dummyShow,dummySeries,;1;18;27;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Locales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+TYCSPORT;1;tv;TYC SPORT;TYCSPORT_stream_g6;14;1666;,movie,dummyShow,dummySeries,;1;157;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Deportes;;1;;\N;1440,DRM,Inter;es;1;0;0;0;;1
+UN24;1;tv;UN24 HD;UN24_stream_47;14;9079;;1;234;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+UNITELLPZ;1;tv;UNITELL PZ;UNITELLPZ_stream_ke;14;417;,movie,dummyShow,dummySeries,;1;172;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;0;;\N;DRM;es;1;0;0;0;;1
+UNITELSCZ;1;tv;UNITEL SCZ;UNITELSCZ_stream_6w;14;7224;,movie,dummyShow,dummySeries,;1;171;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;0;;\N;DRM;es;1;0;0;0;;1
+UNIVERSALHD;1;tv;UNIVERSAL FHD;UNIVERSALHD_stream_e9;14;1512;,movie,dummyShow,dummySeries,;1;44;73;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;\N;\N;Peliculas;;0;;\N;DRM,4320;es;1;0;0;0;;1
+UNIVERSAL_HD_INTER;1;tv;UNIVERSAL HD;UNIVERSAL_HD_INTER_stream_qz;14;1512;,movie,dummyShow,dummySeries,;1;0;\N;0;1;Inter;\N;0;\N;4320;4320;1;2;1;0;\N;\N;Peliculas;;1;;\N;DRM,4320;es;1;0;0;0;;1
+UNIVISION_NETUNO;1;tv;UNIVISION HD;UNIVISION_NETUNO_stream_r2;14;5366;,movie,dummyShow,dummySeries,;1;26;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Variedades;;1;;\N;1440,DRM;es;1;0;0;0;;1
+VALETV;1;tv;VALE TV;VALETV_stream_3f;14;3357;,movie,dummyShow,dummySeries,;1;17;22;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+VENEVISION;1;tv;VENEVISION FHD;VENEVISION_stream_2i;14;2138;,movie,dummyShow,dummySeries,;1;3;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+VENUS;1;tv;VENUS;VENUS_stream_45;14;44;,movie,dummyShow,dummySeries,;1;119;216;0;1;NetUno;\N;1;\N;1440;1440;1;2;1;0;\N;\N;erotic;;0;;\N;1440,DRM;es;1;0;0;0;;1
+VEPACO;1;tv;VEPACO TV HD;VEPACO_stream_8b;14;3352;,movie,dummyShow,dummySeries,;1;206;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+VEPLUS;1;tv;VE PLUS;VEPLUS_stream_dg;14;914;,movie,dummyShow,dummySeries,;1;22;41;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Internacionales;;1;;\N;1440,DRM;es;1;0;0;0;;1
+VMAS_TV;1;tv;V+ TV HD;VMAS_TV_stream_ma;\N;\N;,movie,dummyShow,dummySeries,;1;246;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;spa;\N;Variedades;;1;;\N;1440,DRM;es;1;0;0;0;;1
+VTV;1;tv;VTV;VTV_stream_eo;14;420;,movie,dummyShow,dummySeries,;1;4;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Nacionales;;0;;\N;1440,DRM;es;1;0;0;0;;1
+WARNERCHANNEL;1;tv;WARNER CHANNEL FHD;WARNERCHANNEL_stream_fy;14;466;,movie,dummyShow,dummySeries,;1;38;67;0;1;NetUno;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Series;;1;;\N;DRM,4320;es;1;0;0;0;;1
+WARNER_HD_INTER;1;tv;WARNER HD;WARNER_HD_INTER_stream_lg;14;466;,movie,dummyShow,dummySeries,;1;0;\N;0;1;Inter;\N;0;\N;4320;4320;1;2;1;0;spa,eng;\N;Series;;1;;\N;DRM,4320;es;1;0;0;0;;1
+WOBI;1;tv;WOBI HD;WOBI_stream_me;14;723;,movie,dummyShow,dummySeries,;1;142;\N;0;1;NetUno;\N;0;\N;1440;1440;1;2;1;0;\N;\N;Variedades;;1;;\N;1440,DRM;es;1;0;0;0;;1

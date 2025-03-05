@@ -172,5 +172,3 @@ cython_debug/
 # Ignorar la carpeta data
 data/
 
-# Ignorar la carpeta limpieza_de_datos
-limpieza_de_datos/
