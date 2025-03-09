@@ -54,7 +54,7 @@ The data was loaded from CSV files into Power BI. Here are the steps we followed
 * Non-zapping interactions by gender
 
 
-* **Navigation**
+## **Navigation**
  **Dashboard Overview:** This dashboard consists of five pages:
 
 1. User Guide Page:
@@ -64,37 +64,24 @@ Includes a brief explanation of each visualization and its corresponding filters
 2. Users Page:
 
 Displays key metrics about app users, such as:
-
 Percentage of active users
-
 Total number of users
-
 Average usage time
-
 Effectiveness Page:
-
 Designed to analyze user growth over time.
-
 Highlights user retention effectiveness.
-
 Shows the geographical distribution of users.
 
-3. Interactions Page:
+3.   Interactions Page:
 
-Provides insights into user interactions, including:
-
-Types of content engaged with
-
-Most effective time slots
-
-Popular genres
-
-And much more
+ Provides insights into user interactions, including:
+ Types of content engaged with
+ Most effective time slots
+ Popular genres And much more
 
 4. Popularity Page:
 
 Focused on identifying the most popular channels.
-
 Allows users to evaluate top-performing content, enabling better sales strategies for ad spaces.
 
 ## Built With 🛠️
