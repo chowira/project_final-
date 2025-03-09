@@ -248,7 +248,7 @@ def seleccionar_columnas_canales(df):
     return df_modificado
 
 
-def guardar_dataframe_interactivo(df, ruta_carpeta):
+def guardar_dataframe_interactivo_interacciones(df, ruta_carpeta):
     """
     Guarda un DataFrame en un archivo CSV en una carpeta específica.
     Solicita al usuario el nombre del archivo. Si la carpeta no existe, la crea.
@@ -261,8 +261,7 @@ def guardar_dataframe_interactivo(df, ruta_carpeta):
         str: Ruta completa del archivo guardado.
     """
     # Pedir al usuario el nombre del archivo
-    nombre_archivo = input("Por favor, introduce el nombre del archivo (con extensión .csv): ")
-    
+    nombre_archivo = "tabla_de_hechos_7_dias.csv"
     # Asegurarse de que el nombre del archivo termine con '.csv'
     if not nombre_archivo.endswith('.csv'):
         nombre_archivo += '.csv'
@@ -283,6 +282,74 @@ def guardar_dataframe_interactivo(df, ruta_carpeta):
     
     return ruta_completa
 
+
+def guardar_dataframe_interactivo_usuarios(df, ruta_carpeta):
+    """
+    Guarda un DataFrame en un archivo CSV en una carpeta específica.
+    Solicita al usuario el nombre del archivo. Si la carpeta no existe, la crea.
+
+    Parámetros:
+        df (pd.DataFrame): El DataFrame a guardar.
+        ruta_carpeta (str): Ruta de la carpeta donde se guardará el archivo. Por defecto es 'new_data'.
+
+    Retorna:
+        str: Ruta completa del archivo guardado.
+    """
+    # Pedir al usuario el nombre del archivo
+    nombre_archivo = "usuarios_2.csv"
+    # Asegurarse de que el nombre del archivo termine con '.csv'
+    if not nombre_archivo.endswith('.csv'):
+        nombre_archivo += '.csv'
+    
+    # Verificar si la carpeta existe; si no, crearla
+    if not os.path.exists(ruta_carpeta):
+        os.makedirs(ruta_carpeta)
+        print(f"Carpeta creada: {ruta_carpeta}")
+    else:
+        print(f"Carpeta existente: {ruta_carpeta}")
+    
+    # Construir la ruta completa del archivo
+    ruta_completa = os.path.join(ruta_carpeta, nombre_archivo)
+    
+    # Guardar el DataFrame en un archivo CSV con el separador ';'
+    df.to_csv(ruta_completa, sep=';', index=False)
+    print(f"Archivo guardado en: {ruta_completa}")
+    
+    return ruta_completa
+
+def guardar_dataframe_interactivo_canales(df, ruta_carpeta):
+    """
+    Guarda un DataFrame en un archivo CSV en una carpeta específica.
+    Solicita al usuario el nombre del archivo. Si la carpeta no existe, la crea.
+
+    Parámetros:
+        df (pd.DataFrame): El DataFrame a guardar.
+        ruta_carpeta (str): Ruta de la carpeta donde se guardará el archivo. Por defecto es 'new_data'.
+
+    Retorna:
+        str: Ruta completa del archivo guardado.
+    """
+    # Pedir al usuario el nombre del archivo
+    nombre_archivo = "usuarios_finales.csv"
+    # Asegurarse de que el nombre del archivo termine con '.csv'
+    if not nombre_archivo.endswith('.csv'):
+        nombre_archivo += '.csv'
+    
+    # Verificar si la carpeta existe; si no, crearla
+    if not os.path.exists(ruta_carpeta):
+        os.makedirs(ruta_carpeta)
+        print(f"Carpeta creada: {ruta_carpeta}")
+    else:
+        print(f"Carpeta existente: {ruta_carpeta}")
+    
+    # Construir la ruta completa del archivo
+    ruta_completa = os.path.join(ruta_carpeta, nombre_archivo)
+    
+    # Guardar el DataFrame en un archivo CSV con el separador ';'
+    df.to_csv(ruta_completa, sep=';', index=False)
+    print(f"Archivo guardado en: {ruta_completa}")
+    
+    return ruta_completa
 
 #diccionario de parseo 
 
